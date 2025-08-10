@@ -1,0 +1,122 @@
+[
+  {
+    "plan_type": "Equity Large-Cap",
+    "risk_level": "High",
+    "investment_horizon": "Long-term (5+ years)",
+    "expected_return_range": "12-15%",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Stable investors seeking growth from large companies",
+    "volatility": "Moderate",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Equity Mid-Cap",
+    "risk_level": "High",
+    "investment_horizon": "Long-term (5+ years)",
+    "expected_return_range": "14-18%",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Investors seeking higher growth with moderate risk appetite",
+    "volatility": "High",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Equity Small-Cap",
+    "risk_level": "Very High",
+    "investment_horizon": "Long-term (7+ years)",
+    "expected_return_range": "16-22%",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Aggressive investors seeking maximum growth",
+    "volatility": "Very High",
+    "liquidity": "Moderate"
+  },
+  {
+    "plan_type": "Multi-Cap",
+    "risk_level": "High",
+    "investment_horizon": "Long-term (5+ years)",
+    "expected_return_range": "13-17%",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Investors looking for diversified exposure across market caps",
+    "volatility": "Moderate-High",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Hybrid (Equity + Debt)",
+    "risk_level": "Moderate",
+    "investment_horizon": "Medium to Long-term (3-5 years)",
+    "expected_return_range": "9-12%",
+    "tax_treatment": "Equity/Debt Taxation (depends on allocation)",
+    "ideal_investor_profile": "Investors seeking balance between growth and stability",
+    "volatility": "Moderate",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Debt – Corporate Bond",
+    "risk_level": "Low-Moderate",
+    "investment_horizon": "Short to Medium-term (1-3 years)",
+    "expected_return_range": "6-8%",
+    "tax_treatment": "Debt Taxation",
+    "ideal_investor_profile": "Conservative investors seeking steady income",
+    "volatility": "Low",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Debt – Government Securities (G-Sec)",
+    "risk_level": "Low",
+    "investment_horizon": "Medium to Long-term (3+ years)",
+    "expected_return_range": "5-7%",
+    "tax_treatment": "Debt Taxation",
+    "ideal_investor_profile": "Investors seeking safety and guaranteed returns",
+    "volatility": "Low",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Liquid Funds",
+    "risk_level": "Very Low",
+    "investment_horizon": "Very Short-term (up to 3 months)",
+    "expected_return_range": "4-5%",
+    "tax_treatment": "Debt Taxation",
+    "ideal_investor_profile": "Investors needing high liquidity with minimal risk",
+    "volatility": "Very Low",
+    "liquidity": "Very High"
+  },
+  {
+    "plan_type": "ELSS (Tax Saving)",
+    "risk_level": "High",
+    "investment_horizon": "Long-term (3+ years lock-in)",
+    "expected_return_range": "12-16%",
+    "tax_treatment": "Equity Taxation, Section 80C benefit",
+    "ideal_investor_profile": "Tax-saving investors with long-term growth goals",
+    "volatility": "Moderate-High",
+    "liquidity": "Low (due to lock-in)"
+  },
+  {
+    "plan_type": "Index Funds",
+    "risk_level": "High",
+    "investment_horizon": "Long-term (5+ years)",
+    "expected_return_range": "11-14%",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Passive investors wanting to track market performance",
+    "volatility": "Market Dependent",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Sector/Thematic Funds",
+    "risk_level": "Very High",
+    "investment_horizon": "Long-term (5+ years)",
+    "expected_return_range": "15-20% (highly variable)",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Investors with strong belief in a specific sector/theme",
+    "volatility": "Very High",
+    "liquidity": "High"
+  },
+  {
+    "plan_type": "Balanced Advantage Funds",
+    "risk_level": "Moderate",
+    "investment_horizon": "Medium to Long-term (3-5 years)",
+    "expected_return_range": "9-12%",
+    "tax_treatment": "Equity Taxation",
+    "ideal_investor_profile": "Investors seeking dynamic allocation between equity and debt",
+    "volatility": "Moderate",
+    "liquidity": "High"
+  }
+]
